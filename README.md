@@ -10,4 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-https://komarev.com/ghpvc/?username=sayarkhwab%20&label=Profile%20views&style=for-the-badge
+- ## Profile Views :
+[![Profile views](https://komarev.com/ghpvc/?username=sayarkhwab&label=Profile%20views&style=for-the-badge)](https://github.com/SayarKhwab)
+
+
+### Frequently Used Languages :
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayarKhwab&langs_count=5&theme=tokyonight">
+</p>
+

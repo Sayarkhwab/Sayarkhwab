@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sayarkhwab
-- 👀 I’m interested in Books, Coding, Languages
+- 👀 I’m interested in Books and Coding.
 - 🌱 I’m currently learning python
 - 📫 How to reach me [Telegram](https://t.me/arpt_akash)
 - 😄 Pronouns: He/Him 
